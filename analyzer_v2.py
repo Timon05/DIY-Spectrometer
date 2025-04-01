@@ -128,7 +128,4 @@ def analyze(image_path, save_path=None):
     
     return global_peak, clusters
 
-# Example usage:
-# global_peak, anomalies = analyze("C:\\Users\\timon\\Downloads\\spektrum_sunlight_1.jpg")
-# print(f"Global Peak: {global_peak}")
-# print(f"Anomalies: {anomalies}")
+
